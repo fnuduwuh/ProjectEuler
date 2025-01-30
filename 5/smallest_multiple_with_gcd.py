@@ -1,3 +1,5 @@
+# https://en.wikipedia.org/wiki/Least_common_multiple#Calculation
+
 def get_gcd(num1, num2):
     if num2 == 0:
         return num1
